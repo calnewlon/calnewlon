@@ -1,29 +1,43 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Bain & Company
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Starting later this year, I'll be working for Bain, based in Boston. 
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: 2018
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Incoming Associate Consultant
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: University of Pennsylvania
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: In May 2018, I'll graduate from UPenn with my Bachelors in Chemical & Biomolecular Engineering and my Masters in Systems Engineering.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: May 2018
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: MSE Candidate, BSE Candidate
     i18n: company_b_job
+  icon: fa-plus-square
+
+name:
+    detail: Capital One
+    i18n: company_c
+  desc:
+    detail: This past summer, just outside Washington, D.C., I worked in C1's Fraud department, where I analyzed patterns in fraudulent transactions to improve the rules that trigger real-time declines.
+    i18n: company_c_desc
+  date:
+    detail: Summer 2017
+    i18n: company_c_date
+  job:
+    detail: Business Analyst Intern
+    i18n: company_c_job
   icon: fa-plus-square
