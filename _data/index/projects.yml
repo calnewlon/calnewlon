@@ -15,4 +15,9 @@
   img: /static/assets/img/landing/models.png
   desc: These are models, simulations, and regressions I've put together, either for coursework or just for fun.
 
-
+- name: Linguistics
+  i18n: cpython
+  gh_user: calnewlon
+  repo: Linguistics
+  img: /static/assets/img/landing/linguistics.jpg
+  desc: These are my forays into linguistics, with focus on sociolinguistics, stylistics, and forensic linguistics.
