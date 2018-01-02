@@ -14,7 +14,7 @@
 
 - id: skills
   i18n: nav.skills
-  name: Skills
+  name: Languages
   tpl: skills.html
   css: team
 
@@ -28,7 +28,7 @@
   i18n: nav.blog
   name: Blog
   tpl: blog.html
-  page: blog/
+  #page: blog/
   css: testimonials navy-section
 
 - id: links
